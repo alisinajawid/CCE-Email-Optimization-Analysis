@@ -35,7 +35,7 @@ The script runs a full analysis pipeline:
 9. It compares cluster satisfaction scores using a **Mann-Whitney U test**.
 10. It exports visual summaries as PNG files into the `output/` folder.
 
-## What You Achieved
+## What We Achieved
 
 This project produced a complete end-to-end survey analytics workflow and generated usable outputs for reporting.
 
@@ -102,8 +102,6 @@ In the latest run, all reported `p` values were above `0.05`.
 
 - [ds_mailings_optimization.py](ds_mailings_optimization.py): main analysis script
 - [Customer Feedback.csv](Customer%20Feedback.csv): survey dataset
-- [run.log](run.log): latest console output from the script
-- [output](output): generated charts
 
 ## How To Run
 
